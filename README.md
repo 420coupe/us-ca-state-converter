@@ -7,13 +7,13 @@ The US State and territories + Canadian provinces and territories Converter pack
 NPM:
 
 ```bash
-npm install us-state-converter
+npm install us-ca-state-converter
 ```
 
 Yarn:
 
 ```bash
-yarn add us-state-converter
+yarn add us-ca-state-converter
 ```
 
 ## Usage
