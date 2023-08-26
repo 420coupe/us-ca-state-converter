@@ -1,6 +1,6 @@
-# us-state-converter
+# us-ca-state-converter
 
-The US State Converter package is a module that I made to convert state names to their USPS abbreviations or vice versa. I tried to make it as simple as possible but would any feedback!
+The US State and territories + Canadian provinces and territories Converter package is a module that I modified to convert state, providence and territory names to their USPS abbreviations or vice versa. I tried to make it as simple as possible but would any feedback!
 
 ## Installation
 
@@ -21,7 +21,7 @@ yarn add us-state-converter
 Import the package first
 
 ```JavaScript
-const states = require('us-state-converter')
+const states = require('us-ca-state-converter')
 ```
 
 You can get a full list of objects for each US state and territory by calling the function with no parameters

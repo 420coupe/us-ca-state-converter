@@ -1,14 +1,15 @@
 {
-  "name": "us-state-converter",
-  "version": "1.0.6",
-  "description": "A package that converts U.S. state abbreviations to full names and back",
+  "name": "us-ca-state-converter",
+  "version": "1.0.0",
+  "description": "A package that converts U.S. state + territories and Canadian provinces + territories abbreviations to full names and back",
   "main": "index.js",
   "author": {
-    "name": "Kevin Smith",
-    "email": "i.am@kevinsmith.dev",
-    "url": "https://kevinsmith.dev"
+    "name": "420coupe"
   },
   "contributors": [
+    {
+      "name": "420coupe"
+    },
     {
       "name": "Kevin Smith",
       "email": "i.am@kevinsmith.dev",
@@ -18,12 +19,15 @@
       "name": "Edwin Chu"
     }
   ],
-  "bugs": "https://github.com/keveightysev/us-state-converter/issues",
-  "repository": "github:keveightysev/us-state-converter",
+  "bugs": "https://github.com/420coupe/us--ca-state-converter/issues",
+  "repository": "github:420coupe/us-ca-state-converter",
   "license": "MIT",
   "keywords": [
     "united states",
     "states",
+    "canada",
+    "provinces",
+    "territories",
     "abbreviation",
     "convert"
   ]
