@@ -62,12 +62,12 @@ const state = states.fullName('MN')
 console.log(state) // <- Logs 'Minnesota'
 ```
 
-If you need a list of just the 50 states without territories or DC, the `.only50()` method will do that for you
+If you need a list of just the 50 states without territories, provinces or DC, the `.only50()` method will do that for you
 
 ```JavaScript
 const fiftyStates = states.only50()
 console.log(fiftyStates)
-/* This will log the same array of objects as states(), only with the territories and DC removed */
+/* This will log the same array of objects as states(), only with the territories, provinces and DC removed */
 ```
 
 Finally, I added a method to find the demonym for any state, for funsies. the method is simply called `.demonym()`
